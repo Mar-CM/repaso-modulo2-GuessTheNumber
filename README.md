@@ -1,4 +1,4 @@
-# ¡Adivina el Número 🔢❓!
+# ¡Adivina el Número! 🔢❓
 
 Bienvenid@ a este emocionante juego web, donde los números y la suerte se cruzan en una batalla épica de adivinanzas. Con un poco de JavaScript vainilla y mucha diversión, tendrás que poner a prueba tu intuición y tus habilidades numéricas.
 
@@ -17,7 +17,7 @@ Bienvenid@ a este emocionante juego web, donde los números y la suerte se cruza
 **Pistas:**
 
 - **Demasiado alto** 📈: Bájalo un poco, que te has pasado.
-- Demasiado bajo 📉: Sube la apuesta, te has quedado corta.
+- **Demasiado bajo** 📉: Sube la apuesta, te has quedado corta.
 - **¡Has ganado, campeona!** 🏆: ¡Lo has conseguido! ¡Acertaste el número!
 - Si introduces un número fuera de rango, te diremos que el número debe estar entre 1 y 100. ¡Sin trampas!
 
