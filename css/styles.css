@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    border: none;
+}
+  
+.button {
+    color: white;
+    background-color:rgb(34, 148, 148);
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+header {
+    margin: 5px;
+}
+
+.title {
+    margin: 5px;
+}
+
+.number {
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    color: black;
+    background-color: darkgray;
+}
+
+.text {
+    padding: 5px;
+    margin: 5px;
+    border: solid 2px grey
+}
+
+.reset {
+    color: white;
+    background-color:rgb(195, 51, 51);
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+}
