@@ -6,7 +6,33 @@
     list-style: none;
     border: none;
 }
-  
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url('../images/number2.avif');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+.container-body{
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 15px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .button {
     color: white;
     background-color:rgb(34, 148, 148);
